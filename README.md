@@ -12,6 +12,6 @@ Miscellaneous
 | - | ![melanies_smoothies 🍹🍸](https://github.com/miozilla/melanies_smoothies) | 🍹 Smoothie Ordering App 🍹 | Smoothie Ordering App |
 | - | ![sapcl 5️⃣🅰️🅿️](https://github.com/miozilla/sapcl) | SAP ERP Data & Looker | Google Cloud Cortex Data foundation for SAP, Looker Dashboard |
 | - | ![tcocaz 💸](https://github.com/miozilla/tcocaz) | TCO Calculator | total_cost_of_ownership_calculator, migration_strategy |
-| - | ![vintelaific 🌃🚥🚑](https://github.com/miozilla/vintelaific) | AI Traffic Light | Kaggle Google Capstone Project, Computer Vision, CCTV Camera, Agent | 
+| - | ![vintelaific 🌃🚥🚑](https://github.com/miozilla/vintelaific) | AI Traffic Light | Kaggle Google Capstone Project, Computer Vision, CCTV Camera, Agentic AI | 
 | - | ![zosmf-ibm1 💤0️⃣♟️](https://github.com/miozilla/zosmf-ibm1) | Goverment, Insurance & Banking | z/OS IBM Mainframe, dataset, jcl, zowe |
 | - | :-: | :-: | :-: |
